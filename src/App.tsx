@@ -19,7 +19,7 @@ function App() {
       />
       
       <main className="container-xl mt-5">
-          <h2 className="text-center">NUestras opciones</h2>
+          <h2 className="text-center">Nuestras opciones</h2>
 
           <div className="row mt-5">
               {data.map((guitar) => (
